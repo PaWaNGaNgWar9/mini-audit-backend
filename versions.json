@@ -1,8 +1,8 @@
 [
   {
-    "id": "4b780073-57ae-46a6-bef3-ef10424ac829",
-    "timestamp": "2025-11-30 13:28",
-    "timestampRaw": 1764489520162,
+    "id": "72424d16-0646-433b-b9be-836ae091868a",
+    "timestamp": "2025-11-30 13:56",
+    "timestampRaw": 1764491191649,
     "contentPreview": "hello",
     "content": "hello",
     "addedWords": [
@@ -10,38 +10,6 @@
     ],
     "removedWords": [],
     "oldLength": 0,
-    "newLength": 5
-  },
-  {
-    "id": "0189f4fc-0f3e-438a-bd40-f7a9ac843f42",
-    "timestamp": "2025-11-30 13:28",
-    "timestampRaw": 1764489538159,
-    "contentPreview": "hello my name is virat",
-    "content": "hello my name is virat",
-    "addedWords": [
-      "my",
-      "name",
-      "is",
-      "virat"
-    ],
-    "removedWords": [],
-    "oldLength": 5,
-    "newLength": 22
-  },
-  {
-    "id": "eea71a18-ff58-4f3f-8750-f200732adf67",
-    "timestamp": "2025-11-30 13:36",
-    "timestampRaw": 1764490018443,
-    "contentPreview": "hello",
-    "content": "hello",
-    "addedWords": [],
-    "removedWords": [
-      "my",
-      "name",
-      "is",
-      "virat"
-    ],
-    "oldLength": 22,
     "newLength": 5
   }
 ]
