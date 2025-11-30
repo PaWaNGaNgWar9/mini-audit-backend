@@ -52,6 +52,10 @@ function diffWords(oldText = '', newText = '') {
     newLength: newText.length,
   };
 }
+//changes 
+app.get('/' , (req , res ) =>{
+  res.send('Server is Working');
+});
 app.get('/versions', (req, res) => {
   const versions = readVersions();
   versions.sort((a,b) => (b.timestampRaw || 0) - (a.timestampRaw || 0));
